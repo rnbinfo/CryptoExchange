@@ -50,7 +50,7 @@ Android测试版下载地址：
 
 如有搭建需求，有偿服务，可搜索联系微信：AL_Exchange
 
-![微信]https://github.com/rnbinfo/CryptoExchange/raw/master/WechatIMG111.jpeg
+![wechat]https://github.com/rnbinfo/CryptoExchange/raw/master/wechat_al.png
 
 
 
