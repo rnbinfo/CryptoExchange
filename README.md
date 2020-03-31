@@ -24,16 +24,16 @@ PC/H5 自适应
 ![WEB-TRADE](https://github.com/rnbinfo/CryptoExchange/raw/master/web-trade-pro.jpg)
 
 资产列表
-![WEB-ASSET](https://github.com/rnbinfo/CryptoExchange/raw/master/web-asset.jpg)
+![WEB-ASSET](https://github.com/rnbinfo/CryptoExchange/raw/master/web-asset.png)
 
 
 Android/IOS
 首页
-![APP-HOME](https://github.com/rnbinfo/CryptoExchange/raw/master/app-home.jpg)
+![APP-HOME](https://github.com/rnbinfo/CryptoExchange/raw/master/app-home.png)
 交易界面（高仿火币）
-![APP-TRADE](https://github.com/rnbinfo/CryptoExchange/raw/master/app-trade.jpg)
+![APP-TRADE](https://github.com/rnbinfo/CryptoExchange/raw/master/app-trade.png)
 资产列表
-![APP-ASSET](https://github.com/rnbinfo/CryptoExchange/raw/master/app-asset.jpg)
+![APP-ASSET](https://github.com/rnbinfo/CryptoExchange/raw/master/app-asset.png)
 
 #### 系统演示地址：节点在新加坡，网速较慢可翻墙浏览
 
