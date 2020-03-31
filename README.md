@@ -30,10 +30,14 @@ PC/H5 自适应
 Android/IOS
 首页
 ![APP-HOME](https://github.com/rnbinfo/CryptoExchange/raw/master/app-home.png)
+
 交易界面（高仿火币）
 ![APP-TRADE](https://github.com/rnbinfo/CryptoExchange/raw/master/app-trade.png)
+
 资产列表
 ![APP-ASSET](https://github.com/rnbinfo/CryptoExchange/raw/master/app-asset.png)
+
+
 
 #### 系统演示地址：节点在新加坡，网速较慢可翻墙浏览
 
@@ -46,8 +50,5 @@ Android测试版下载地址：
 如有搭建需求，可搜索联系微信：AL_Exchange
 
 ![wechat](https://github.com/rnbinfo/CryptoExchange/raw/master/wechat_al.png)
-
-
-
 
 
