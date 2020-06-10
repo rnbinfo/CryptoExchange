@@ -43,8 +43,7 @@ Android/IOS
 
 PC/H5 自适应  :   https://benew.io/
 
-Android测试版下载地址：
-
+Android测试版下载地址：联系下方微信，提供下载地址及测试账号
 
 
 如有搭建需求，可搜索联系微信：AL_Exchange
