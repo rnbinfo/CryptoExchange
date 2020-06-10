@@ -41,7 +41,7 @@ Android/IOS
 
 #### 系统演示地址：节点在新加坡，网速较慢可翻墙浏览
 
-PC/H5 自适应  :   https://test.al.exchange/
+PC/H5 自适应  :   https://benew.io/
 
 Android测试版下载地址：
 
